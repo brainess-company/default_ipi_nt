@@ -1,4 +1,4 @@
-# Meu Módulo Fiscal Personalizado
+# Default IPI NT
 
 Este módulo personaliza o comportamento do módulo `l10n_br_sale` no Odoo, preenchendo automaticamente o campo `ipi_tax_id` com o valor "IPI NT" ao adicionar uma nova linha de venda.
 
